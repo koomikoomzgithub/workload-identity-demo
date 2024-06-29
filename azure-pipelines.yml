@@ -12,4 +12,4 @@ steps:
     azureSubscription: 'identity-azuredevops'
     scriptType: 'bash'
     scriptLocation: 'inlineScript'
-    inlineScript: 'az group create -n rg-demo -l westeurope'''
+    inlineScript: 'az group create -n rg-demo -l westeurope'
